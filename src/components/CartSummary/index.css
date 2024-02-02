@@ -1,0 +1,22 @@
+.summary-container {
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+.summary-heading {
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+.summary-para {
+  color: #616e7c;
+}
+.summary-button {
+  color: white;
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+}
